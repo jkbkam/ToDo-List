@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(105, 180, 224, 0.46);
+    font-family: Arial;
+}
+
+.TaskSheet {
+
+    width: 500px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.TaskTitle {
+    height: 35px;
+    background-color: black;
+    color: rgb(226, 234, 239);
+}
+
+ul {
+    background-color: whitesmoke;
+}
+
+li {
+    background-color: whitesmoke;
+    height: 15px;
+}
